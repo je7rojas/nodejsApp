@@ -1,13 +1,13 @@
 {
-  "name": "express-basics",
+  "name": "nodejsapp",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "start": "node app.js"
   },
-  "description": "To run this example:",
-  "keywords": ["nodejs", "express"],
+  "description": "",
+  "keywords": [],
   "author": "Jeef Rojas",
   "dependencies": {
     "express": "^4.17.3",
